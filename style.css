@@ -1,0 +1,20 @@
+.feed {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.feedLayout{
+  border: 1px solid;
+  border-radius: 3px;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.feedItem {
+  margin: 10px 0;
+  text-align: left;
+  border: 1px solid;
+  border-radius: 3px;
+  padding: 10px;
+}
